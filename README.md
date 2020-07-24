@@ -13,7 +13,7 @@ make run
 
 + 使用 docker-compose 运行
 ```
-docker-compose run 
+docker-compose up -d
 ```
 
 + nginx log path
