@@ -21,3 +21,5 @@ docker-compose run
 
 + 访问地址
 > http://localhost:8080
+
+> 更多nginx操作请访问[docker.nginx](https://hub.docker.com/_/nginx)
